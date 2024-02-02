@@ -13,12 +13,7 @@ Currently serves as a research intern in Professor Yang Guoqiang's team at the W
  
 Research focuses
 ------
-(1) Constructing and intervening strategies for diabetes with psychiatric disorders in zebrafish models; 
-
-(2) developing nano drug delivery systems; 
-
-(3) he biological functionalization of medical materials. 
-Shelly Wang has published 4 SCI papers as the first author, contributed to 9 SCI papers, and filed 5 patents.
+(1) Constructing and intervening strategies for diabetes with psychiatric disorders in zebrafish models; <br>(2) developing nano drug delivery systems; <br>(3) he biological functionalization of medical materials. <br>Shelly Wang has published 4 SCI papers as the first author, contributed to 9 SCI papers, and filed 5 patents.
 
 For more info
 ------
