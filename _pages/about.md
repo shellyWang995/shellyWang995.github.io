@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Academic Experience"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,9 @@ Currently serves as a research intern in Professor Yang Guoqiang's team at the W
 Research focuses
 ------
 (1) Constructing and intervening strategies for diabetes with psychiatric disorders in zebrafish models; 
+
 (2) developing nano drug delivery systems; 
+
 (3) he biological functionalization of medical materials. 
 Shelly Wang has published 4 SCI papers as the first author, contributed to 9 SCI papers, and filed 5 patents.
 
