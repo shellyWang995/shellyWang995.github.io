@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Shelly Wang"
   avatar           : "wanglei.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Research Assistant"
+  location         : "No.1 Jinlian road, Wenzhou, Zhejiang province, China"
+  employer         : "Wenzhou Institute, University of Chinese Academy of Sciences"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=UA84cbwAAAAJ&hl=zh-CN"
+  email            : "wanglei0721@ucas.ac.cn"
+  researchgate     : "https://www.x-mol.com/groups/ils/people/28468"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,11 +103,11 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2704-9544"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "https://www.x-mol.com/groups/ils"
   tumblr           :
   twitter          : "replacethistwitterhandle"
   vine             :
