@@ -83,8 +83,8 @@ author:
   name             : "Shelly Wang"
   avatar           : "wanglei.png"
   bio              : "Research Assistant"
-  location         : No.1 Jinlian road, Wenzhou,<br>&nbsp;&nbsp;&nbsp;&nbspZhejiang province, China
-  employer         : Wenzhou Institute,<br>&nbsp;&nbsp;&nbsp;&nbspUniversity of Chinese Academy of Sciences
+  location         : No.1 Jinlian road, Wenzhou,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbspZhejiang province, China
+  employer         : Wenzhou Institute,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbspUniversity of Chinese <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbspAcademy of Sciences
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UA84cbwAAAAJ&hl=zh-CN"
   email            : "wanglei0721@ucas.ac.cn"
