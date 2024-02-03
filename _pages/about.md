@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-2015-2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anhui Xinhua University, Major in Pharmaceutical Engineering<br>Feb - Sept 2017 Exchange Student at Universiti Utara Malaysia, Major in Biology<br>2020-2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wenzhou University, Major in Pharmacy<br>Aug - Oct  &nbsp;2022 Visiting Student at Westlake University, Major in Biology<br>From 2023 to present Works at the University of Chinese Academy of Sciences 
+Sept 2015 - June 2019,Anhui Xinhua University, Major in Pharmaceutical Engineering<br>Feb 2017- Sept 2017,Exchange Student at Universiti Utara Malaysia, Major in Biology<br>Sept 2020-June 2023,Wenzhou University, Major in Pharmacy<br>Aug 2022- Oct 2022,Visiting Student at Westlake University, Major in Biology<br>From 2023 to present,Works at the University of Chinese Academy of Sciences 
  
 Research focuses
 ------
