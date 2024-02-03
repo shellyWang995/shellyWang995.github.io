@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Shelly Wang, a female 2020 graduate master's student from the Pharmacy program of the College of Life and Environmental Sciences at Wenzhou University.
-Currently serves as a research intern in Professor Yang Guoqiang's team at the Wenzhou Institute, UCAS. 
+2015-2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anhui Xinhua University, Major in Pharmaceutical Engineering<br>Feb - Sept 2017 Exchange Student at Universiti Utara Malaysia, Major in Biology<br>2020-2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wenzhou University, Major in Pharmacy<br>Aug - Oct  &nbsp;2022 Visiting Student at Westlake University, Major in Biology<br>From 2023 to present Works at the University of Chinese Academy of Sciences 
  
 Research focuses
 ------
@@ -17,4 +16,4 @@ Research focuses
 
 For more info
 ------
-[More ](https://www.x-mol.com/groups/ils/people/28468)https://www.x-mol.com/groups/ils/people/28468
+[More ](https://www.x-mol.com/groups/ils/people/28468)
