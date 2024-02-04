@@ -7,11 +7,11 @@ This study demonstrates that aerobic exercise alleviates depressive-like behavio
 date: 1 July 2022
 venue: 'Life Sciences'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0024320522002788?via%3Dihub'
-citation: 'Wang, L#; Ma, J#; Wu, W.; Fang, Y.; Liu, F.; Yang, Q.; Hu, X.; Gu, X.; He, Z.; Sun, D *; et al..(2022). &quot;Effect of Aerobic Exercise as a Treatment on Type 2 Diabetes Mellitus with Depression-like Behavior Zebrafish.&quot; <i>Life Sciences</i>. 300, (120578).'
+citation: 'Wang, L#; Ma, J#; Wu, W.; Fang, Y.; Liu, F.; Yang, Q.; Hu, X.; Gu, X.; He, Z.; Sun, D *; et al..(2022). &quot;Effect of Aerobic Exercise as a Treatment on Type 2 Diabetes Mellitus with Depression-like Behavior Zebrafish.&quot; <i>Life Sciences</i>. 300, 120578.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0024320522002788?via%3Dihub)
 
 
-Recommended citation: Wang, L#; Ma, J#; Wu, W.; Fang, Y.; Liu, F.; Yang, Q.; Hu, X.; Gu, X.; He, Z.; Sun, D *; et al..(2022). &quot;Effect of Aerobic Exercise as a Treatment on Type 2 Diabetes Mellitus with Depression-like Behavior Zebrafish.&quot; <i>Life Sciences</i>. 300, (120578).
+Recommended citation: Wang, L#; Ma, J#; Wu, W.; Fang, Y.; Liu, F.; Yang, Q.; Hu, X.; Gu, X.; He, Z.; Sun, D *; et al..(2022). &quot;Effect of Aerobic Exercise as a Treatment on Type 2 Diabetes Mellitus with Depression-like Behavior Zebrafish.&quot; <i>Life Sciences</i>. 300, 120578.
