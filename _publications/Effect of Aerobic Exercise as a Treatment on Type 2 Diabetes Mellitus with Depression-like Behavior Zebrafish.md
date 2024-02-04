@@ -1,5 +1,5 @@
 ---
-title: "Effect of Aerobic Exercise as a Treatment on Type 2 Diabetes Mellitus with Depression-like Behavior Zebrafish. "
+title: "Effect of Aerobic Exercise as a Treatment on Type 2 Diabetes Mellitus with Depression-like Behavior Zebrafish"
 collection: medical science  psychiatry
 permalink: /publication/0_Effect_of_Aerobic_Exercise_as_a_Treatment_on_Type_2_Diabetes_Mellitus_with_Depression-like_Behavior_Zebrafish
 excerpt: '
