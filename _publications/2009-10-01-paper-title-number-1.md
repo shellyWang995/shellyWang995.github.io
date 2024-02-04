@@ -1,15 +1,16 @@
 ---
 title: "Advances in zebrafish as a comprehensive model of mental disorders"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+collection: medical science  psychiatry
+permalink: https://www.researchgate.net/publication/371739861_Advances_in_Zebrafish_as_a_Comprehensive_Model_of_Mental_Disorders
+excerpt: 'This review discusses the progress in using zebrafish models to simulate human mental disorders, including behavioral characteristics, modeling methods, and the current challenges and future development trends, aiming to provide theoretical support for exploring the mechanisms and treatment strategies of mental disorders.'
 date: 20 Jun 2023
 venue: 'Depression & Anxiety'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.hindawi.com/journals/da/2023/6663141/'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://downloads.hindawi.com/journals/da/2023/6663141.pdf?_gl=1*h5wu80*_ga*NTAzMzQ4NTA5LjE3MDcwMTQyNzY.*_ga_NF5QFMJT5V*MTcwNzAxNDI3NS4xLjEuMTcwNzAxNDkzOS42MC4wLjA.&_ga=2.181065319.1977520081.1707014276-503348509.1707014276)https://downloads.hindawi.com/journals/da/2023/6663141.pdf?_gl=1*h5wu80*_ga*NTAzMzQ4NTA5LjE3MDcwMTQyNzY.*_ga_NF5QFMJT5V*MTcwNzAxNDI3NS4xLjEuMTcwNzAxNDkzOS42MC4wLjA.&_ga=2.181065319.1977520081.1707014276-503348509.1707014276)
+[Download paper here](http://downloads.hindawi.com/journals/da/2023/6663141.pdf)
+
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
