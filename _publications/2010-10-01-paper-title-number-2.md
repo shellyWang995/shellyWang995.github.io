@@ -1,7 +1,7 @@
 ---
 title: "Biological Functions and Applications of Antimicrobial Peptides"
 collection: medical science  psychiatry
-permalink:/publication/1_Biological_Functions_and_Applications_of_Antimicrobial_Peptides
+permalink: /publication/1_Biological_Functions_and_Applications_of_Antimicrobial_Peptides
 excerpt: '
 This review highlights the unique antimicrobial, antifungal, antiviral, antiparasitic, and antitumor properties of antimicrobial peptides (AMPs), their research progress, and discusses the challenges and potential directions for their application due to their effectiveness and lack of resistance.'
 date:  1 April 2022
