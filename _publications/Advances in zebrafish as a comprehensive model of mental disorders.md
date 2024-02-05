@@ -6,11 +6,11 @@ excerpt: 'This review discusses the progress in using zebrafish models to simula
 date: 20 Jun 2023
 venue: 'Depression & Anxiety'
 paperurl: 'https://www.hindawi.com/journals/da/2023/6663141/'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Lei Wang#, Fan Liu#, Yimeng Fang, Jiahui Ma, Jiawei Wang, Hua Li, Wei Wu*, Libo Jin*, Da Sun*. Advances in zebrafish as a comprehensive model of mental disorders. 2023, <i>Depression & Anxiety</i>. '
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This review discusses the progress in using zebrafish models to simulate human mental disorders, including behavioral characteristics, modeling methods, and the current challenges and future development trends, aiming to provide theoretical support for exploring the mechanisms and treatment strategies of mental disorders.
 
 [Download paper here](http://downloads.hindawi.com/journals/da/2023/6663141.pdf)
 
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
