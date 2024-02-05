@@ -6,10 +6,9 @@ excerpt: "This study demonstrates that pasteurized Akkermansia muciniphila signi
 date: 16 May 2023
 venue: 'Microbiol Spectr'
 paperurl: 'https://journals.asm.org/doi/10.1128/spectrum.00849-23'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Qu, L#; Liu, F#; Fang, Y#; Wang, L.; Chen, H.; Yang, Q.; Dong, H.; Jin, L.; Wu, W.; Sun, D. Improvement in Zebrafish with Diabetes and Alzheimer’s Disease Treated with Pasteurized Akkermansia Muciniphila. <i>Microbiol Spectr </i>2023'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This study demonstrates that pasteurized Akkermansia muciniphila significantly improves both diabetes and Alzheimer's disease symptoms in zebrafish, offering promising insights for the prevention and treatment of these comorbid conditions
 
 [Download paper here](https://journals.asm.org/doi/reader/10.1128/spectrum.00849-23)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
