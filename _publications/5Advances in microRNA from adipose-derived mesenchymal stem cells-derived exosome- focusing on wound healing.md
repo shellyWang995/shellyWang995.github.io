@@ -6,10 +6,9 @@ excerpt: "This paper highlights the clinical potential of adipose-derived mesenc
 date: 21 October 2022
 venue: 'Journal of Materials Chemistry B'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2022/tb/d2tb01987f'
-citation: 'Your Name, You. (2022). "Advances in microRNA from adipose-derived mesenchymal stem cells-derived exosome- focusing on wound healing." Journal of Materials Chemistry B.'
+citation: 'Jiahui Ma#, Ling Yong#. Pengyu Lei#, Hua Li, Yimeng Fang, Lei Wang, Haojie Chen, Qi Zhou, Wei Wu, Libo Jin*, Da Sun*, Xingxing Zhang*, Advances in microRNA from adipose-derived mesenchymal stem cells-derived exosome: focusing on wound healing, <i>Journal of Materials Chemistry B</i>, 2022.10.21. '
 ---
-This paper discusses the therapeutic applications of ADMSC-Exo-miRNA in wound healing. It explores how these microRNAs influence immune response, skin regeneration, and scar formation.
+This paper highlights the clinical potential of adipose-derived mesenchymal stem cell exosomal microRNAs (ADMSC-Exo-miRNA) in wound healing, detailing their roles in modulating immune response, enhancing skin regeneration, and reducing scar formation, thus offering new insights for developing wound treatment strategies.
 
 [Download paper here](https://pubs.rsc.org/en/content/articlelanding/2022/tb/d2tb01987f)
 
-Recommended citation: Your Name, You. (2022). "Advances in microRNA from adipose-derived mesenchymal stem cells-derived exosome- focusing on wound healing." Journal of Materials Chemistry B.
