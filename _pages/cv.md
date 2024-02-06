@@ -13,13 +13,13 @@ Education
 ======
 * B.Eng in Pharmaceutical Engineering, Anhui Xinhua University, 2019
 * M.Pharm in Pharmacy, Wenzhou University, 2023
-* 
+
 
 Work experience
 ======
 * Summer 2023: Research Assistant
   * Wenzhou Institute, University of Chinese Academy of Sciences
-  * Duties included: Biological experiment,cellular experiment,Small animal imaging
+  * Duties included: Biological experiment; Cellular experiment; Animal imaging
   * Supervisor: Professor Guoqiang Yang
 
 * Fall 2015: Research Assistant
