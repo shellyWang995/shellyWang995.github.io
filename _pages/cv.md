@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng in Pharmaceutical Engineering, Anhui Xinhua University, 2019
+* M.Pharm in Pharmacy, Wenzhou University, 2023
+* 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Research Assistant
+  * Wenzhou Institute, University of Chinese Academy of Sciences
+  * Duties included: Biological experiment,cellular experiment,Small animal imaging
+  * Supervisor: Professor Guoqiang Yang
 
 * Fall 2015: Research Assistant
   * Github University
